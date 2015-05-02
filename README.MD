@@ -1,11 +1,8 @@
-A description of your solution to these two problems, including what you did to solve the problem, and why you did it that way
-A description of what problems still exist, what doesn't quite work right and so on.
-===================================================================================
 Sean Warren
 
 https://www.youtube.com/watch?v=k1tsGGz-Qw0 << Video You Must Watch - Key & Peeles Hy On PotEnUse
 
-To complie the Pot Smoking Problem, I used notepad and JavaC and Java. With my project their are no complie errors or special compile strings need because I used, the function @SuppressWarnings("unchecked"). In my project, I used a poorly implemented array system, which causes errors with the java complier usually.
+>To complie the Pot Smoking Problem, I used notepad and JavaC and Java. With my project their are no complie errors or special compile strings need because I used, the function @SuppressWarnings("unchecked"). In my project, I used a poorly implemented array system, which causes errors with the java complier usually.
 ----------------------------------------------------------------------------------------------
 Write solution to solve the currently very un-PC"cigarette smokers problem" in java using Java threads, and monitors (using the "synchronized" keyword) (If it bothers your PC sensTosibilities, think of it at the Pot-smokers problem and then it is all proper again.
 
