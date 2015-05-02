@@ -23,6 +23,7 @@ Consider a simulation with three smoker threads and one agent thread. Each smoke
 - An agent host must be able to freeze an executing agent and transfer it to another host
 - An agent host must be able to thaw an agent transferred from another and allow it to resume execution
 - The agent host must prevent agents from directly interfering with each other
----------------------------------------------------
+
+
 # Errors
 The only problem that I can find, is that the program runs forever because I never implemented a while loop with a decrementing variable.
